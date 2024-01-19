@@ -11,7 +11,7 @@ The Profile Card project provides a visually appealing way to showcase a user's 
 4. Interaction buttons for subscription and messaging.
 5. Analytics section displaying metrics with icons (likes, comments, shares).
 
-#Installation
+# Installation
 1. Clone the repository or download the HTML and CSS files.
 2. Open the HTML file in a web browser.
 
